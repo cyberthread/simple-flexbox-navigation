@@ -15,3 +15,9 @@ In this exercise you will:
 - **Style header for screens larger than 38rems**: You'll notice that the narrow screen design has already been implemented. Your job is to implement the design change that occurs at 38rems. 
 	- You'll first make a two column design that includes the site identifier on the left and the nav on the right. These columns will not be equal.
 	- Next you'll make sure the navigational list items are in a single row. *Hint: you'll have a flexbox inside of a flexbox.*
+
+- **Make site live**
+
+## Submission
+- URL to live website
+- Screenshot demonstrating the vallid code ffor each of the HTML files and for the CSS file
