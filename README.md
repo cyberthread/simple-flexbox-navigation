@@ -20,4 +20,4 @@ In this exercise you will:
 
 ## Submission
 - URL to live website
-- Screenshot demonstrating the vallid code ffor each of the HTML files and for the CSS file
+- Screenshot demonstrating the vallid code for each of the 4 HTML files and for the 1 CSS file
