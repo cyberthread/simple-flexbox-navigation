@@ -8,7 +8,7 @@ In this exercise you will:
 
 ## Tasks
 - **Preview**: Make sure you know what your goals are! 
-	- Review the prototypes in the screenshots folder. You should notice that the layout of the navigation changes between screensizes and that when the "skip to main content" anchor is in focus it is visible, but otherwise is not visible on the screen.
+	- Review the prototypes in the screenshots folder. 
 	- Review the HTML code so that you understand the structure of the document. You will not need to edit the HTML code.
 	- Go through the CSS and make sure you understand what all of the existing code does. 
 		- *Add comments to leave yourself notes about what particular properties do*. I recommend using your developer tools to explore what is already present. You can toggle properties on and off to see what they do.
